@@ -1,4 +1,4 @@
-# Project 0. Guess number
+# Project HW. Guess number
 
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
